@@ -1,0 +1,9 @@
+<li>
+                      Create a folder with any name you like, e.g., responsive-dashboard.
+                    </li>
+                    <li>
+                        Inside it, create the necessary files:
+                        <code><strong>index.html</strong></code>,
+                        <code><strong>style.css</strong></code>, and
+                        <code><strong>script.js</strong></code>.
+                    </li>
